@@ -1,0 +1,29 @@
+{
+  "fitbit": {
+    "appUUID": "2be35fed-1d7a-4988-be89-eb43470bc3f6",
+    "appType": "clockface",
+    "appDisplayName": "OmniClock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#2196f3",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity",
+      "access_user_profile"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "OmniClock"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}

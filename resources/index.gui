@@ -1,0 +1,61 @@
+<svg class="background">
+  
+    <svg x="1%" y="1%" width="78%" height="23%">
+      <rect class="grey1" />
+      <text id="time-data" class="time">23:33:33</text>
+    </svg> 
+  
+    <svg x="1%" y="26%" width="78%" height="23%">
+      <rect class="grey2" />
+      <text id="date-data" class="date">SAT 23 NOV</text>
+    </svg> 
+  
+    <svg x="1%" y="76%" width="38%" height="23%">
+      <rect  class="grey1" />
+      <text id="batt-label" class="label med-label">BATT</text>
+      <text id="batt-data" class="data med-data">100%</text>
+    </svg> 
+  
+    <svg x="1%" y="51%" width="38%" height="23%">
+      <rect class="grey2" />
+      <text id="steps-label" class="label med-label">STEPS</text>
+      <text id="steps-data" class="data med-data">21234</text>
+    </svg> 
+  
+    <svg x="41%" y="51%" width="38%" height="23%">
+      <rect class="grey1" />
+      <text id="cals-label" class="label med-label">CALS</text>
+      <text id="cals-data" class="data med-data">2123</text>
+    </svg> 
+  
+    <svg x="41%" y="76%" width="38%" height="23%">
+      <rect class="grey2" />
+      <text id="dist-label" class="label med-label">DIST</text>
+      <text id="dist-data" class="data med-data">12345 m</text>
+    </svg> 
+  
+    <svg x="81%" y="1%" width="18%" height="23%">
+      <rect class="red1" />
+      <text id="bpm-label" class="label small-label">BPM</text>
+      <text id="bpm-data" class="data small-data">123</text>
+    </svg> 
+  
+    <svg x="81%" y="26%" width="18%" height="23%">
+      <rect class="red2" />
+      <text id="rhr-label" class="label small-label">RHR</text>
+      <text id="rhr-data" class="data small-data">55</text>
+    </svg> 
+  
+    <svg x="81%" y="51%" width="18%" height="23%">
+      <rect class="grey2" />
+      <text id="flr-label" class="label small-label">FLR</text>
+      <text id="flr-data" class="data small-data">100</text>
+    </svg> 
+  
+    <svg x="81%" y="76%" width="18%" height="23%">
+      <rect class="grey1" />
+      <text id="act-label" class="label small-label">ACT</text>
+      <text id="act-data" class="data small-data">100</text>
+    </svg> 
+  
+</svg>
